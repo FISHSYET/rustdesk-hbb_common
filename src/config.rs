@@ -98,8 +98,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rd-1.natfrp.cloud"];
-pub const RS_PUB_KEY: &str = "uUnb9eVVNZskn4xjkflCTKbO1CVCax4dg+nw9C26gkQ=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["172.16.207.240"];
+pub const RS_PUB_KEY: &str = "gxzjy_wwz_shishen";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
